@@ -1,0 +1,15 @@
+1.Select a site
+2.Find its subdomains.
+           |_______virustotal.com
+3.Rank subdomains by unpopularity
+4.Find IP address 
+       |_________ping domain
+5.Find out which programmig language the website is using
+        |___________whatweb domain
+6.Find out open ports and services
+        |__________nmap ip -Pn -sV
+        For detail information about the target 
+                    |_________________ nmap ip | nmap -sC ip
+7.Server information
+        |_________________ whatweb domain
+           
